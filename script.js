@@ -650,7 +650,7 @@ const categories = {
     {
         "question": "Is the change in shape of any materials when subjected to the action of a force?",
         "choices": ["Strain", "Moment of inertia", "Stress", "Modulus of elasticity"],
-        "answer": "Stress"
+        "answer": "Strain"
     },
     {
         "question": "The twisting moment of a shaft is directly proportional to horsepower and proportional to speed.",
