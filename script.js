@@ -978,7 +978,7 @@ function loadQuestion() {
     nextButton.disabled = true;
 }
 
-const wrongSound = new Audio('wrong.mp3'); // Ensure "wrong.mp3" is in your project folder
+const wrongSound = new Audio('wrong1.mp3'); // Ensure "wrong.mp3" is in your project folder
 
 function handleChoice(button, selected, correct) {
     const buttons = document.querySelectorAll(".choice");
