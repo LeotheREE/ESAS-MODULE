@@ -1,7 +1,6 @@
 const categories = {
     "ESAS MODULE": [
 
-
     {
         "question": "A body having identical properties all over it is called",
         "choices": ["Non-homogeneous", "Homogenous", "Isentropic", "Elastic"],
@@ -895,7 +894,336 @@ const categories = {
 
     ],
 
+"ESAS REFRESHER 1": [
 
+    {
+        "question": "What is structural member supported horizontally and carries transverse loading?",
+        "choices": ["Column", "Beam", "Arch", "Shaft"],
+        "answer": "Beam"
+    },
+    {
+        "question": "Which of the following is NOT a unit of work?",
+        "choices": ["N-m", "erg", "dyne", "kg-sq. misq. sec"],
+        "answer": "dyne"
+    },
+    {
+        "question": "The three-moment equation may be used to analyze____",
+        "choices": ["a continuous beam", "a beam loaded at the third points", "a step tapered column", "an axially end-loaded beam"],
+        "answer": "a continuous beam"
+    },
+    {
+        "question": "What refers to the point in which bending moment changes sign through a zero value in strength of materials?",
+        "choices": ["Zero stress point", "Critical point", "Point of contra-flexure", "Point of inflection"],
+        "answer": "Point of contra-flexure"
+    },
+    {
+        "question": "What is the device used to determine the specific gravity of the liquids?",
+        "choices": ["Psychrometer", "Hydrometer", "Manometer", "Venturi meter"],
+        "answer": "Hydrometer"
+    },
+    {
+        "question": "Under what conditions is mass conserved in fluid flow?",
+        "choices": ["The fluid is barotropic", "The flow is isentropic", "The fluid is incompressible", "It is always conserved"],
+        "answer": "It is always conserved"
+    },
+    {
+        "question": "What is the combination of laminar flow and turbulent flow?",
+        "choices": ["Turbulent flow", "Laminar flow", "Critical flow", "Transitional flow"],
+        "answer": "Transitional flow"
+    },
+    {
+        "question": "Which of the following statements is FALSE?",
+        "choices": [
+            "Steady flow does not change with time at any point.",
+            "The Navier-Stokes equation is the equation of motion for a viscous Newtonian",
+            "Bernoulli's equation only holds on the same streamline.",
+            "The Reynold's number is the ratio of the viscous force to the inertial force."
+        ],
+        "answer": "The Reynold's number is the ratio of the viscous force to the inertial force."
+    },
+    {
+        "question": "A Kaplan turbine is",
+        "choices": [
+            "A high head mixed flow turbine",
+            "An impulse turbine, inward flow",
+            "A reaction turbine, outward flow",
+            "Low head axial flow turbine"
+        ],
+        "answer": "Low head axial flow turbine"
+    },
+    {
+        "question": "What physical property of a material that refers to the point at which a material liquefies or solidifies on cooling?",
+        "choices": ["Curie point", "Specific heat", "Melting point", "Refractive Index"],
+        "answer": "Melting point"
+    },
+    {
+        "question": "What refers to the measure of the disorder present in a given substance or system?",
+        "choices": ["Entropy", "Enthalpy", "Heat capacity", "Molar heat"],
+        "answer": "Entropy"
+    },
+    {
+        "question": "Which of the following would be identified with control volume in thermodynamics?",
+        "choices": [
+            "Expansion of gas in a cylinder after combustion",
+            "Compression of air in a cylinder",
+            "Filling a tire with air at a service station",
+            "The Goodyear blimp during flight"
+        ],
+        "answer": "Filling a tire with air at a service station"
+    },
+    {
+        "question": "Which of the following does NOT transfer work to or from a system?",
+        "choices": [
+            "An electrical resistance heater",
+            "A moving piston",
+            "The expanding membrane of a balloon",
+            "A membrane that burst"
+        ],
+        "answer": "A membrane that burst"
+    },
+    {
+        "question": "Which of the following is TRUE for water at a reference temperature when enthalpy is zero?",
+        "choices": ["Internal energy is negative", "Entropy is nonzero", "Specific volume is zero", "Vapor pressure is zero"],
+        "answer": "Internal energy is negative"
+    },
+    {
+        "question": "A rigid container is heated by the sun. There is NO shaft work associated with the container. From the first law of thermodynamics, what is the resulting work equal to?",
+        "choices": ["The change in internal energy", "Zero", "The heat transfers", "The volume times the change in pressure"],
+        "answer": "Zero"
+    },
+    {
+        "question": "What would be the most important factor under consideration for the site selection of a thermal plant?",
+        "choices": ["Availability of fuel", "Availability of water", "Distance from the populated area.", "Cost and the type of land."],
+        "answer": "Availability of water"
+    },
+    {
+        "question": "What is the strong bond between hydrogen atoms?",
+        "choices": ["The ionic bond", "The metallic bond", "Ionic and metallic bond", "The covalent bond"],
+        "answer": "The covalent bond"
+    },
+    {
+        "question": "In a mixed gas such as air, the rms speed of different molecules are",
+        "choices": ["proportional to molecular mass", "Independent of molecular mass", "proportional to square root of molecular mass", "inversely proportional to square root of molecular mass"],
+        "answer": "inversely proportional to square root of molecular mass"
+    },
+    {
+        "question": "What is the Van der Waals forces?",
+        "choices": ["Primary bonds between atoms", "Forces not present in liquids", "Forces between electrons and protons", "Weak secondary bonds between atoms"],
+        "answer": "Weak secondary bonds between atoms"
+    },
+    {
+        "question": "Which one of these statements is TRUE for twinning?",
+        "choices": ["It is the most significant form of plastic deformation", "It cannot be caused by impact or thermal structure.", "It occurs at lower shear stresses than slip.", "It frequently occurs in hexagonal closed-packed structures."],
+        "answer": "It frequently occurs in hexagonal closed-packed structures."
+    },
+    {
+        "question": "What is a coal that has been previously burned in an oxygen-poor environment?",
+        "choices": ["Tuyere", "Diamond", "Ore", "Coke"],
+        "answer": "Coke"
+    },
+    {
+        "question": "Which of the following is NOT a structural class of steel?",
+        "choices": ["Carbon", "Tool and die", "Stainless", "High-strength, low-alloy"],
+        "answer": "Tool and die"
+    },
+    {
+        "question": "Cross-linking of natural rubber is known as",
+        "choices": ["Vulcanization", "Sulfurization", "Raw rubberation", "Polymerization"],
+        "answer": "Vulcanization"
+    },
+    {
+        "question": "Which of the following portion of hard disk space served as RAM?",
+        "choices": ["Cache", "Random memory", "Read-only memory", "Virtual memory"],
+        "answer": "Virtual memory"
+    },
+    {
+        "question": "What is in a machine that it is capable of absorbing and organizing new data, learning new concepts, reasoning logically and responding to inquiries?",
+        "choices": ["Self-process intelligence", "Artificial intelligence", "Man-free intelligence", "None of these"],
+        "answer": "Artificial intelligence"
+    },
+    {
+        "question": "This MATLAB command clears all data and variables stored in memory:",
+        "choices": ["clc", "delete", "deallocate", "clear"],
+        "answer": "clear"
+    },
+    {
+        "question": "What does MATLAB stand for?",
+        "choices": ["Math Laboratory", "Matrix Laboratory", "MathWorks", "None of these"],
+        "answer": "Matrix Laboratory"
+    },
+    {
+        "question": "An instruction that causes data in the accumulator to be moved to the memory or a peripheral register?",
+        "choices": ["FETCH", "STORE", "LOAD", "LOOP"],
+        "answer": "STORE"
+    },
+    {
+        "question": "The Pentium microprocessor has ___ execution units.",
+        "choices": ["1", "2", "3", "4"],
+        "answer": "3"
+    },
+    {
+        "question": "What form of software can also be called firmware?",
+        "choices": ["Cache memory", "Operating system", "System BIOS", "Random memory"],
+        "answer": "System BIOS"
+    },
+    {
+        "question": "Encryption can provide ALL of the following features of information systems security EXCEPT:",
+        "choices": ["Confidentiality", "Integrity", "Authenticity", "Privacy"],
+        "answer": "Privacy"
+    },
+    {
+        "question": "HTTP:// is an identifier that appears at the beginning of most web pages. What does HTTP stand for?",
+        "choices": ["Hypertime Text Process", "Hypertext Transfer Protocol", "Hypertext Transmission Protocol", "Hypertext Time Process"],
+        "answer": "Hypertext Transfer Protocol"
+    },
+    {
+        "question": "The fastest method to transfer data wirelessly is:",
+        "choices": ["GPRS", "Infrared", "802.11", "Bluetooth"],
+        "answer": "802.11"
+    },
+    {
+        "question": "Characters in MATLAB are represented in their value in memory?",
+        "choices": ["Decimal", "ASCII", "Hexadecimal", "String"],
+        "answer": "ASCII"
+    },
+    {
+        "question": "In MATLAB, this keyword immediately moves to the next iteration of the loop:",
+        "choices": ["Update", "Goto", "Continue", "Break"],
+        "answer": "Continue"
+    },
+    {
+        "question": "What is the interest occurred over the interest period is also subject to the interest rate in the next period?",
+        "choices": ["Quarterly Interest", "Compound Interest", "Simple Interest", "Annual Interest"],
+        "answer": "Compound Interest"
+    },
+    {
+        "question": "Which of the following situations has a conventional cash flow so that an internal rate of return can safely be calculated and used?",
+        "choices": [
+            "You purchase a house and pay the bank in monthly installments",
+            "Your company undertakes a mining project in which the land must be reclaimed at the end of the project",
+            "You lease a car and pay by the month",
+            "You invest in a safe dividend stock and receive a dividend each year"
+        ],
+        "answer": "You invest in a safe dividend stock and receive a dividend each year"
+    },
+    {
+        "question": "Who is responsible for ensuring that the project is completed successfully as measured by time, cost, performance, and stakeholder satisfaction?",
+        "choices": ["Functional Manager", "Project Manager", "Chief Engineer", "Department Supervisor"],
+        "answer": "Project Manager"
+    },
+    {
+        "question": "For a project manager to have an efficient means of identifying and communicating the planned activities and their interrelationships, he must use a network technique. One of the network techniques is commonly known as PERT. What does PERT stand for?",
+        "choices": [
+            "Project Evaluation Review Technique",
+            "Program Evaluation Review Technique",
+            "Path Evaluation Review Technology",
+            "Program Execution Review Technique"
+        ],
+        "answer": "Program Evaluation Review Technique"
+    },
+    {
+        "question": "What do you call the ability to convert assets to cash quickly?",
+        "choices": ["Leverage", "Insolvency", "Solvency", "Liquidity"],
+        "answer": "Liquidity"
+    },
+    {
+        "question": "Which of the following corresponds to the meaning of annuity?",
+        "choices": [
+            "A lumped sum at the end of the year",
+            "A series of uniform amounts over a period of time",
+            "The future worth of a percent amount",
+            "A repayment of a loan"
+        ],
+        "answer": "A series of uniform amounts over a period of time"
+    },
+    {
+        "question": "Engineers can become good managers through:",
+        "choices": ["Experience", "Effective Career Planning", "Taking a Master's Degree", "Trainings"],
+        "answer": "Effective Career Planning"
+    },
+    {
+        "question": "It is the process of unifying the power of technology with entrepreneurial skills and capabilities:",
+        "choices": ["Entrepreneurship", "Technopreneurship", "Innovations", "Business Management"],
+        "answer": "Technopreneurship"
+    },
+    {
+        "question": "In the Registered Electrical Engineer (REE) licensure exam, the weight of Engineering Sciences and Allied Subjects (ESAS) is:",
+        "choices": ["25%", "30%", "45%", "35%"],
+        "answer": "30%"
+    },
+    {
+        "question": "Who is the present chairman of the board of Electrical Engineering?",
+        "choices": ["Hon. Jaime Mendoza", "Hon. Rodolfo Penalosa", "Hon. Francis Mapile", "Hon. Fortunato Leynes"],
+        "answer": "Hon. Francis Mapile"
+    },
+    {
+        "question": "What is the term used when an American citizen is allowed to practice his profession, e.g., electrical engineering profession, here in the Philippines?",
+        "choices": ["APEC registry", "ACPE registry", "Foreign Reciprocity", "ASEAN Engr"],
+        "answer": "Foreign Reciprocity"
+    },
+    {
+        "question": "In R.A. 7920, IRR rule 2(d) is defining?",
+        "choices": ["CPE - Continuing Professional Education", "Board - Board of Electrical Engineering", "Commission - Professional Regulation Commission", "Commissioner - the Chairman of Professional Regulation Commission"],
+        "answer": "Board - Board of Electrical Engineering"
+    },
+    {
+        "question": "The clearance between conductors and roof where the service conductors are passing over roofs must be __ mm.",
+        "choices": ["1000", "1500", "2000", "2500"],
+        "answer": "2500"
+    },
+    {
+        "question": "Where receptacles are connected to a 30-Amp branch circuit, the maximum allowable cord and plug connected load shall NOT be more than _.",
+        "choices": ["24", "26", "30", "34"],
+        "answer": "24"
+    },
+    {
+        "question": "In a Rigid Metal Conduit (RMC) wiring, conduits shall be supported at least every _ mm.",
+        "choices": ["1500", "2000", "3000", "1800"],
+        "answer": "3000"
+    },
+    {
+        "question": "The 'earth' best defines which of the following terms?",
+        "choices": ["bonding", "ground electrode", "ground", "grounded conductor"],
+        "answer": "ground"
+    },
+    {
+        "question": "The usual function of a disconnect switch in high voltage circuits is to _.",
+        "choices": ["Open the circuit in the event of an overload", "Open or close the circuit under load", "Maintain continuity of service", "Isolate from energized buses, equipment which are not in service"],
+        "answer": "Isolate from energized buses, equipment which are not in service"
+    },
+    {
+        "question": "Which of the following is 'Murang Kuryente Act'?",
+        "choices": ["R.A.11361", "R.A.11285", "R.A.11371", "R.A.10968"],
+        "answer": "R.A.11371"
+    },
+    {
+        "question": "Which of the following is/are hazardous practice/s?",
+        "choices": ["Using equipment improperly", "Failure to warn or secure", "Horseplay", "All of these"],
+        "answer": "All of these"
+    },
+    {
+        "question": "Protection of workers from impact penetration from falling and flying objects, blows, and from limited electric shock and burns shall be provided where there is reasonable probability of exposure to such hazards.",
+        "choices": ["Hard Hat", "Toe Board", "Harness", "Belt"],
+        "answer": "Hard Hat"
+    },
+    {
+        "question": "Under OSHS Rule 1040, a workplace with less than 100 workers is under what type and composition of Health and Safety?",
+        "choices": ["Type A", "Type B", "Type C", "Type D"],
+        "answer": "Type D"
+    },
+    {
+        "question": "It refers to a portion of the transmission system referring to the lines or wire?",
+        "choices": ["Distribution lines", "Sub-transmission lines", "Transmission lines", "Feeder lines"],
+        "answer": "Transmission lines"
+    },
+    {
+        "question": "In R.A. 9136, what does PSALM mean?",
+        "choices": ["Power System Assets and Liabilities Management Corporation", "Power Sector Assets and Liabilities Management Corporation", "Power System Assets and Liabilities Management Commission", "Power Sector Assets and Liabilities Management Commission"],
+        "answer": "Power Sector Assets and Liabilities Management Corporation"
+    }
+
+
+],
 
 };
 
