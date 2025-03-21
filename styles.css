@@ -1,117 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
 body {
     font-family: 'Roboto', Arial, sans-serif;
-    background: linear-gradient(to bottom right, #74ebd5, #acb6e5);
+    background: linear-gradient(to bottom right, #26294c, #222544);
     margin: 0;
     padding: 0;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
-    color: #333;
+    color: white;
     text-align: center;
+    transition: background 0.5s ease-in-out;
+}
+
+
+body.fade-in {
+    animation: fadeIn 0.8s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(-20px); }
+    to { opacity: 1; transform: translateY(0); }
 }
 
 #menu-container, #quiz-container {
-    background: white;
+    background: #191933;
     border-radius: 12px;
     box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
     width: 90%;
     max-width: 500px;
-    padding: 20px;
+    padding: 25px;
+    transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
+}
+
+#menu-container { animation: slideIn 0.6s ease-in-out; }
+#quiz-container { animation: slideIn 0.6s ease-in-out; }
+
+@keyframes slideIn {
+    from { opacity: 0; transform: translateY(30px); }
+    to { opacity: 1; transform: translateY(0); }
 }
 
 h1 {
-    color: #555;
+    color: white;
+    font-size: 1.8rem;
+    font-weight: 700;
     margin-bottom: 20px;
 }
 
-#categories-container {
-    display: flex;
-    flex-direction: column;
-    gap: 15px;
-}
 
-.category {
-    padding: 10px;
+.category, #next-button, #restart-button {
+    padding: 12px;
     font-size: 1.2rem;
     border: none;
     border-radius: 8px;
     cursor: pointer;
-    background-color: #007bff;
+    background-color: #5b4db0;
     color: white;
-    transition: background-color 0.3s;
+    transition: background-color 0.3s, transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
 }
 
-.category:hover {
-    background-color: #0056b3;
+.category:hover, #next-button:hover, #restart-button:hover {
+    background-color: #ae4ffe;
+    transform: scale(1.05);
+    box-shadow: 0 5px 10px rgba(0, 123, 255, 0.4);
 }
 
-#question-container {
-    margin-bottom: 20px;
-}
-
-#question {
-    font-size: 1.1rem;
-    font-weight: 500;
-}
 
 #choices-container {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 10px;
-    margin-top: 20px;
+    gap: 15px; 
+    margin-top: 10px;
+}
+
+#next-button {
+    margin-top: 40px !important; 
+    display: block;
 }
 
 .choice {
     width: 100%;
     max-width: 400px;
-    padding: 12px;
-    font-size: 0.9rem;
-    border: 2px solid #ccc;
+    padding: 14px; 
+    font-size: 1rem;
+    border: 2px solid #222544;
     border-radius: 8px;
-    background-color: #f9f9f9;
-    color: #444;
+    background-color: #222544;
+    color: white;
     cursor: pointer;
     text-align: center;
-    transition: background-color 0.3s, border-color 0.3s;
+    transition: all 0.3s ease-in-out;
 }
+
+
+.choice:hover {
+    background: #1F0D3B;
+    border-color: #2B1052;
+    transform: scale(1.02);
+}
+
 
 .choice.correct {
     background-color: #d4edda;
     border-color: #28a745;
     color: #155724;
+    animation: correctAnimation 0.3s ease-in-out;
+    box-shadow: 0 0 10px #28a745;
 }
+
 
 .choice.incorrect {
     background-color: #f8d7da;
     border-color: #dc3545;
     color: #721c24;
+    animation: incorrectAnimation 0.3s ease-in-out;
 }
 
-button {
-    padding: 10px 20px;
-    font-size: 1rem;
-    border: none;
-    border-radius: 8px;
-    cursor: pointer;
-    margin: 10px;
+@keyframes correctAnimation {
+    from { transform: scale(1); }
+    to { transform: scale(1.05); }
 }
 
-#next-button {
-    background-color: #007bff;
-    color: white;
+@keyframes incorrectAnimation {
+    from { transform: scale(1); }
+    to { transform: scale(0.95); }
 }
 
-#next-button:hover {
-    background-color: #0056b3;
+
+@keyframes shake {
+    0% { transform: translateX(0); }
+    25% { transform: translateX(-5px); }
+    50% { transform: translateX(5px); }
+    75% { transform: translateX(-5px); }
+    100% { transform: translateX(0); }
 }
 
-#restart-button {
-    background-color: #28a745;
-    color: white;
+
+@keyframes celebrate {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.1) rotate(3deg); }
+    100% { transform: scale(1) rotate(-3deg); }
 }
 
-#restart-button:hover {
-    background-color: #1e7e34;
+.quiz-container.celebrate {
+    animation: celebrate 1s ease-in-out;
 }
