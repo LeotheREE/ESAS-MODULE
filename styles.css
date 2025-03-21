@@ -58,7 +58,7 @@ h1 {
     width: fit-content;
     margin: 10px auto; /* Centers it horizontally */
     text-align: center;
-    padding: 10px;
+    padding: 12px 20px;
     font-size: 1.2rem;
     border: none;
     border-radius: 8px;
@@ -66,6 +66,11 @@ h1 {
     background-color: #5b4db0;
     color: white;
     transition: background-color 0.3s, transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+/* Add spacing between category buttons */
+.category + .category {
+    margin-top: 15px; /* Adjust space between buttons */
 }
 
 .category:hover {
