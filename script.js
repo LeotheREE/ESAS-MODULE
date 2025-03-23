@@ -468,8 +468,8 @@ const categories = {
     },
     {
         "question": "The ores from which Titanium is obtained is?",
-        "choices": ["Ilmenite", "Bauxite", "Cassiterite", "Sphalerite"],
-        "answer": "Ilmenite"
+        "choices": ["Limanite (Ilmenite)", "Bauxite", "Cassiterite", "Sphalerite"],
+        "answer": "Limanite (Ilmenite)"
     },
     {
         "question": "What do you call earth and stone mixed with the iron oxide?",
