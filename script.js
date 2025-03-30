@@ -1225,6 +1225,554 @@ const categories = {
 
 ],
 
+    "EE MODULE(1,2,3)": [
+    {
+        "question": "The resistance of conductor increases",
+        "choices": ["when length of conductor increased", "when the resistivity of the wire remains constant", "when the area of the wire is increased", "when length and area of conductor are both increased"],
+        "answer": "when length of conductor increased"
+    },
+    {
+        "question": "Factor in determining specific resistance",
+        "choices": ["Nature of material", "Area", "Material and length", "Material, area and length"],
+        "answer": "Nature of material"
+    },
+    {
+        "question": "Insulation of wire is based on",
+        "choices": ["RMS", "Peak", "Average", "1.732 peak"],
+        "answer": "Peak"
+    },
+    {
+        "question": "In reverse PN Junction, with the voltage is increasing, the current is",
+        "choices": ["increasing", "decreasing", "increasing exponentially", "No change"],
+        "answer": "No change"
+    },
+    {
+        "question": "Which is the heaviest metal?",
+        "choices": ["Tungsten", "Cobalt", "Titanium", "Iron"],
+        "answer": "Tungsten"
+    },
+    {
+        "question": "In Flemming's Right hand Rule, which finger points the direction of current?",
+        "choices": ["Thumb", "Index", "Middle", "Ring"],
+        "answer": "Middle"
+    },
+    {
+        "question": "Which type of DC motor is not directly connected to the load?",
+        "choices": ["Shunt", "Series", "Universal", "Compound"],
+        "answer": "Shunt"
+    },
+    {
+        "question": "In a DC motor which one is not considered in determining the speed?",
+        "choices": ["Thickness of armature lamination", "Strength of the magnetic field", "Strength in the armature", "Load on the motor"],
+        "answer": "Thickness of armature lamination"
+    },
+    {
+        "question": "In dwelling units, at least one wall receptacle outlet shall be installed within ______ mm of the outside edge of basin or bathtub.",
+        "choices": ["1200 mm", "1600 mm", "600 mm", "900 mm"],
+        "answer": "900 mm"
+    },
+    {
+        "question": "Receptacle outlet shall be located not more than _______ mm above countertop.",
+        "choices": ["300", "450", "250", "600"],
+        "answer": "450"
+    },
+    {
+        "question": "Sign and outline lighting outlets shall be computed at a minimum of ______ VA for each required branch circuit.",
+        "choices": ["1500", "180", "600", "1200"],
+        "answer": "1200"
+    },
+    {
+        "question": "What is the minimum distance between receptacle outlets in meters of a show window?",
+        "choices": ["3", "4", "2", "5"],
+        "answer": "3"
+    },
+    {
+        "question": "In dwelling units, at least one receptacle outlet for hallways more than ________ m.",
+        "choices": ["3", "4", "2", "5"],
+        "answer": "3"
+    },
+    {
+        "question": "Outdoor outlets of one-family dwelling shall be installed not more than _______ mm above grade level at the front or back of the family dwelling.",
+        "choices": ["3000", "4000", "2000", "1500"],
+        "answer": "2000"
+    },
+    {
+        "question": "Appliance receptacle outlet in dwelling unit for specified appliances shall be installed within _______ mm of the intended location.",
+        "choices": ["1,800 mm", "3,700 mm", "1,700 mm", "4,000 mm"],
+        "answer": "1,800 mm"
+    },
+    {
+        "question": "What is the minimum ampacity of feeders with motor and other load connected?",
+        "choices": ["250% motor FL current plus other current", "125% motor FL current plus other current", "125% total current", "250% total current"],
+        "answer": "125% motor FL current plus other current"
+    },
+    {
+        "question": "A fuse is a ________ device?",
+        "choices": ["single phase thermal switch", "three phase thermal", "single phase", "three phase protection"],
+        "answer": "single phase thermal switch"
+    },
+    {
+        "question": "What is the heating process that makes use of the currents induced by the electromagnetic action in the charge to be heated, used for hardening of steel?",
+        "choices": ["Dielectric heating", "Convection", "Induction heating", "Infrared heating"],
+        "answer": "Induction heating"
+    },
+    {
+        "question": "A Diesel Power plant is best suited as",
+        "choices": ["Base Load Plant", "Standby Plant", "Peak Load Plant", "General Purpose Plant"],
+        "answer": "Standby Plant"
+    },
+    {
+        "question": "In Philippine Distribution Code Purposes, which of the following does not belong?",
+        "choices": ["To ensure quality of electric Power", "To specify Customers services for the protection of end users", "To specify standards for the protection of personnel in the work environment.", "To ensure that distribution system will be operated by only one distribution company."],
+        "answer": "To ensure that distribution system will be operated by only one distribution company."
+    },
+    {
+        "question": "In Philippine Distribution Code Power Quality Standards, which of the following does not belong?",
+        "choices": [
+            "Frequency shall be constant at 60 Hz",
+            "THD of the voltage shall not exceed to 5% during normal operating condition",
+            "The maximum voltage unbalance at the connection point of any user shall not exceed to 2.5% during normal operating condition",
+            "The flicker severity at the connection point of any user shall not exceed to 1.0 unit for short term or 0.8 unit for long term."
+        ],
+        "answer": "Frequency shall be constant at 60 Hz"
+    },
+    {
+        "question": "In Philippine Distribution Code System Efficiency Standards, power factor at the connection point shall be",
+        "choices": ["Not less than 80%", "Not less than 90%", "Not less than 85%", "Always unity"],
+        "answer": "Not less than 85%"
+    },
+    {
+        "question": "In Philippine Distribution Code Reliability Standards, the following reliability indices shall be imposed except one",
+        "choices": [
+            "System Average Interruption Frequency index",
+            "System Average Interruption Duration index",
+            "Momentary Average Interruption Frequency",
+            "Momentary Average Interruption Duration"
+        ],
+        "answer": "Momentary Average Interruption Duration"
+    },
+    {
+        "question": "In Philippine Distribution Code Safety Standards for Distribution Utilities and Suppliers, the following are adopted except",
+        "choices": ["PEC Part 1", "OSHS", "PEC Part 2", "Building Code"],
+        "answer": "Building Code"
+    },
+    {
+        "question": "A device used for switching, carrying and interrupting a system for both fault and full load condition.",
+        "choices": ["Sectionalizer", "Circuit breaker", "Fuse", "Air break switch"],
+        "answer": "Circuit breaker"
+    },
+    {
+        "question": "The effect of the dielectric is to",
+        "choices": ["increase the capacitance", "increase the working voltage", "decrease the capacitance", "reduce the working voltage"],
+        "answer": "increase the working voltage"
+    },
+    {
+        "question": "What will happen to an insulating medium if subjected to a voltage more than its basic impulse insulation level? It will",
+        "choices": ["change its molecular structure", "punctured", "become magnetic", "melt"],
+        "answer": "punctured"
+    },
+    {
+        "question": "A Hermetic motor-compressor has 80 A full load current. What is the rating of disconnecting means?",
+        "choices": ["92A", "100A", "80A", "200A"],
+        "answer": "92A"
+    },
+    {
+        "question": "Which is not a standard branch circuit rating?",
+        "choices": ["30A", "20A", "25A", "40A"],
+        "answer": "25A"
+    },
+    {
+        "question": "What is the minimum ampacity of conductor to supply a 25 Ampere Electric Heater?",
+        "choices": ["31.3 A", "30 A", "35 A", "40 A"],
+        "answer": "31.3 A"
+    },
+    {
+        "question": "Electric Discharge lamp of 1500A and a 250A incandescent lamp is supplied from a single-phase 3-wire system. What is the neutral current?",
+        "choices": ["100 A", "400 A", "385 A", "425 A"],
+        "answer": "385 A"
+    },
+    {
+        "question": "What is the power factor of a potential transformer?",
+        "choices": ["0.97", "0.95", "0.98", "0.99"],
+        "answer": "0.99"
+    },
+    {
+        "question": "What is full load efficiency of a power transformer?",
+        "choices": ["85%", "90%", "98%", "84%"],
+        "answer": "98%"
+    },
+    {
+        "question": "At a DC steady state, a capacitor looks like a/an ________ circuit and an inductor looks like a/an _______ circuit.",
+        "choices": ["I and II", "II and III", "III and II", "III and III"],
+        "answer": "III and II"
+    },
+    {
+        "question": "What voltage is used to test the insulation resistance?",
+        "choices": ["1000 volts", "600 volts", "500 volts", "250 volts"],
+        "answer": "500 volts"
+    },
+    {
+        "question": "Find the connection of capacitors 1 uF, 3uF & 4 uF needed to have a total of 2 micro-farad.",
+        "choices": ["C1 and C2 in parallel, series w/C3", "All in parallel", "C1 & C3 in parallel, series w/ C2", "all in series"],
+        "answer": "C1 and C2 in parallel, series w/C3"
+    },
+    {
+        "question": "If a tropical storm is going to the Philippine area of responsibility within 24 hours, what kind of alert is raised according to the Philippine Grid Code?",
+        "choices": ["Blue Alert", "Yellow alert", "Weather Disturbance alert", "Red alert"],
+        "answer": "Blue Alert"
+    },
+    {
+        "question": "What will happen to the time constant if capacitance is increased?",
+        "choices": ["decrease", "increase", "double", "constant"],
+        "answer": "increase"
+    },
+    {
+        "question": "What is the main purpose of a fuse?",
+        "choices": ["Protect the line", "Protect the load", "Protect appliances", "limit the excessive current"],
+        "answer": "limit the excessive current"
+    },
+    {
+        "question": "Basically, a lightning arrester is a",
+        "choices": ["Surge diverter", "Surge reflector", "Surge alternator", "Surge absorber"],
+        "answer": "Surge diverter"
+    },
+    {
+        "question": "A switchgear is a device used for",
+        "choices": [
+            "Interrupting an electrical circuit",
+            "Switching an electrical circuit",
+            "Switching and controlling an electrical Circuit",
+            "Switching, controlling and protecting an electrical Circuit and equipment."
+        ],
+        "answer": "Switching, controlling and protecting an electrical Circuit and equipment."
+    },
+    {
+        "question": "What is the type of communication that only one of the two party can transmit at a time?",
+        "choices": ["Full duplex", "Half duplex", "Bicomm", "Simplex"],
+        "answer": "Half duplex"
+    },
+    {
+        "question": "Buchholz relay cannot be used on",
+        "choices": ["Three phase transformer", "500 KV transformer", "Air cooled transformer", "1000kV transformer"],
+        "answer": "Air cooled transformer"
+    },
+    {
+        "question": "What is the name of Ratio in a transformer",
+        "choices": ["Polarization Ratio", "Myers Index", "Neutralization Ratio", "Transformer turn ratio"],
+        "answer": "Transformer turn ratio"
+    },
+    {
+        "question": "Where a ground fault Circuit Interrupter (GFCI) should be installed? (I. Garage II. Bathroom III. Outside IV. Dining Room V. Guest Room)",
+        "choices": ["I, II, III", "I, IV, V", "I, II, V", "I, III, IV"],
+        "answer": "I, II, III"
+    },
+    {
+        "question": "What is the type of relay that detect excessive current?",
+        "choices": ["Differential Relay", "Reverse current Relay", "Overcurrent Relay", "Overvoltage Relay"],
+        "answer": "Overcurrent Relay"
+    },
+    {
+        "question": "What is the minimum size grounding electrode copper conductor?",
+        "choices": ["3.5 sq.mm", "8.0 sq.mm", "5.5 sq.mm", "14 sq.mm"],
+        "answer": "8.0 sq.mm"
+    },
+    {
+        "question": "What is the minimum size grounding rod?",
+        "choices": ["10mm", "12mm", "13mm", "16mm"],
+        "answer": "16mm"
+    },
+    {
+        "question": "What is the minimum size of wire in lighting outlet?",
+        "choices": ["2.0 sq.mm.", "5.5 sq.mm.", "3.5 sq.mm.", "1.6 sq.mm."],
+        "answer": "2.0 sq.mm."
+    },
+    {
+        "question": "The lighting load for an office expressed in terms of volt-ampere per square meter must be at least",
+        "choices": ["16 VA/sq.m", "28 VA/sq.m", "12 VA/sq.m", "24 VA/sq.m"],
+        "answer": "28 VA/sq.m"
+    },
+    {
+        "question": "When an electron moves because of the pressure applied to it. What is the resulting process?",
+        "choices": ["flow of current", "melting", "magnetic induction", "generating"],
+        "answer": "flow of current"
+    },
+    {
+        "question": "What type of luminaire is permitted in clothes closet?",
+        "choices": [
+            "surface mounted or recessed fixture with complete enclosed lamp",
+            "pendant luminaire",
+            "incandescent fixture with partially enclosed lamp",
+            "incandescent fixture with open lamp"
+        ],
+        "answer": "surface mounted or recessed fixture with complete enclosed lamp"
+    },
+    {
+        "question": "Fermi energy is the amount of energy which",
+        "choices": [
+            "a hole can have at room temperature",
+            "a valence electron can have at room temperature",
+            "must be given to an electron to move it to conduction band",
+            "must be given to hole to move it in valence band"
+        ],
+        "answer": "must be given to an electron to move it to conduction band"
+    },
+    {
+        "question": "The interrupting capacity of circuit breaker is generally determined by ______.",
+        "choices": ["symmetrical fault", "line to ground fault", "asymmetrical fault", "line to line fault"],
+        "answer": "symmetrical fault"
+    },
+    {
+        "question": "In dwelling unit, floor receptacle/outlets shall not be counted as part of the required receptacle outlets unless located within ______ mm of the wall.",
+        "choices": ["1800", "1600", "450", "600"],
+        "answer": "450"
+    },
+    {
+        "question": "What is the minimum surface area exposed for plate electrode?",
+        "choices": ["1/6 m²", "1/4 m²", "1/5 m²", "1/3 m²"],
+        "answer": "1/5 m²"
+    },
+    {
+        "question": "Receptacle shall be installed so that no point along the floor line in any wall space is more than ________ mm, measured horizontally, from an outlet in that space.",
+        "choices": ["1800", "1200", "1500", "1000"],
+        "answer": "1800"
+    },
+    {
+        "question": "In metering, kwhr meter in conjunction with varhr-meter is used to determine ______.",
+        "choices": ["Load Factor", "Use Factor", "Power Factor", "Demand Factor"],
+        "answer": "Power Factor"
+    },
+    {
+        "question": "An electromagnetic device for finding the short circuit",
+        "choices": ["Hi-pot", "Ohm-meter", "Growler", "Megger"],
+        "answer": "Growler"
+    },
+    {
+        "question": "A device that recloses a circuit or isolates a faulted line.",
+        "choices": ["Circuit breaker", "Sectionalizer", "Recloser", "Disconnect Switch"],
+        "answer": "Recloser"
+    },
+    {
+        "question": "What is the time at which the load is disconnected when there is fault.",
+        "choices": ["Arcing time", "Melting time", "Cut-off time", "Operating time"],
+        "answer": "Operating time"
+    },
+    {
+        "question": "What is the maximum output of cellular transmitter?",
+        "choices": ["3 W", "30 W", "6 W", "60 W"],
+        "answer": "3 W"
+    },
+    {
+        "question": "The frequency variation of FM transmitter is expressed as a function of _______.",
+        "choices": ["AM", "FM", "Amplitude", "Phase"],
+        "answer": "Phase"
+    },
+    {
+        "question": "Which of the following does not belong for grid design?",
+        "choices": ["Capacity", "Timing", "Voltage", "Circuit Design"],
+        "answer": "Timing"
+    },
+    {
+        "question": "In grounding, which is permitted as grounding electrode? (I. Building Metal Frame II. Metal Water pipe)",
+        "choices": ["I only", "II only", "both I & II", "neither I nor II"],
+        "answer": "both I & II"
+    },
+    {
+        "question": "A circuit must be protected against",
+        "choices": ["overload", "short circuit", "overload, short circuit, earth leakage, voltage spikes", "earth leakage"],
+        "answer": "overload, short circuit, earth leakage, voltage spikes"
+    },
+    {
+        "question": "The location of the disconnecting means from the second building",
+        "choices": ["I only", "II only", "both I & II", "neither I nor II"],
+        "answer": "both I & II"
+    },
+    {
+        "question": "What is the modern light sensor used in fax machine?",
+        "choices": ["Phototransistor", "Phototube", "Liquid Crystal Display (LCD)", "Charged Coupled Device"],
+        "answer": "Charged Coupled Device"
+    },
+    {
+        "question": "In single phase, 3-wire system, the middle conductor must be which of the following",
+        "choices": ["hot wire", "ungrounded wire", "grounded wire", "out-of-phase wire"],
+        "answer": "grounded wire"
+    },
+    {
+        "question": "How many three-way and four-way switches are needed for a lighting system controlled in five different locations?",
+        "choices": ["2-3Way & 3-4Way", "1-3Way & 4-4Way", "3-3Way & 2-4Way", "4-3Way & 1-4Way"],
+        "answer": "2-3Way & 3-4Way"
+    },
+    {
+        "question": "_______ is also known as 'Cold Standby Reserve'",
+        "choices": ["Back-up reserve", "Spinning reserve", "Contingency reserve", "Power reserve"],
+        "answer": "Back-up reserve"
+    },
+    {
+        "question": "Which of the following is included in the calculation of reliability indices of Distribution Code?",
+        "choices": ["Outages in the Generation", "500 kV line outages", "34.5 kV line outages", "230 kV line outages"],
+        "answer": "34.5 kV line outages"
+    },
+    {
+        "question": "One farad is",
+        "choices": ["coulomb-joule", "joule per volt", "one coulomb per volt", "one volt per coulomb"],
+        "answer": "one coulomb per volt"
+    },
+    {
+        "question": "The permeability of the material means",
+        "choices": ["Strength of permanent magnet", "Strength of an electromagnet", "The conductivity of the material for magnetic lines of force", "The magnetization left in the iron after exciting field has been removed"],
+        "answer": "The conductivity of the material for magnetic lines of force"
+    },
+    {
+        "question": "Induction motor is running at rated load. What will happen when one winding of a delta connected motor is suddenly cut?",
+        "choices": ["run fast", "stop", "run slow", "will burn"],
+        "answer": "will burn"
+    },
+    {
+        "question": "The presence of the current is only made known by the effect it produces. Three important effects are:",
+        "choices": ["Heating, electric shock and generation", "heating, magnetic and electric shock", "generation, chemical and electric shock", "heating, magnetic and chemical"],
+        "answer": "heating, magnetic and electric shock"
+    },
+    {
+        "question": "What is the suitable connection to be used in unbalanced three-phase?",
+        "choices": ["3 phase, 3 wire Y-connection", "3 phase, 4 wire Y-connection", "Delta connection", "Open delta connection"],
+        "answer": "3 phase, 4 wire Y-connection"
+    },
+    {
+        "question": "Which of the following is a vector quantity?",
+        "choices": ["Magnetic potentials", "Magnetic field density", "Flux density", "Relative permeability"],
+        "answer": "Magnetic field density"
+    },
+    {
+        "question": "The torque of a synchronous motor when it reaches its synchronism is called",
+        "choices": ["Pull-in torque", "Break away Torque", "Pull-out torque", "Running Torque"],
+        "answer": "Pull-in torque"
+    },
+    {
+        "question": "The law that induces emf and current always opposes the cause producing them was discovered by",
+        "choices": ["Lenz", "Maxwell", "Faraday", "Ohm"],
+        "answer": "Lenz"
+    },
+    {
+        "question": "In the left-hand rule, the thumb always represents",
+        "choices": ["Voltage", "Direction of force on conductor", "Current", "Magnetic field"],
+        "answer": "Direction of force on conductor"
+    },
+    {
+        "question": "If P = number of pair of poles, f = the frequency in Hz, N = speed in rpm, the relationship between the three for synchronous alternators is given as",
+        "choices": ["f=PN/120 Hz", "P=fN/120 poles", "f=PN/60 Hz", "N=fP/120 rpm"],
+        "answer": "f=PN/120 Hz"
+    },
+    {
+        "question": "In wye system, the phase current is _______ (of) line current.",
+        "choices": ["less than", "equal to", "1.732", "0.577"],
+        "answer": "equal to"
+    },
+    {
+        "question": "The magnetism that remains in a magnet after magnetizing force has been removed is called",
+        "choices": ["Permeability", "Residual", "Induction", "Saturation"],
+        "answer": "Residual"
+    },
+    {
+        "question": "A wattmeter is installed in a balanced 3-phase system with current coil at line A while voltage coil across B and C. The wattmeter will measure",
+        "choices": ["total power", "active power", "real power", "reactive power"],
+        "answer": "reactive power"
+    },
+    {
+        "question": "Which of the following heating methods is based on the transformer principle?",
+        "choices": ["Resistance heating", "Induction heating", "Eddy current heating", "Dielectric heating"],
+        "answer": "Induction heating"
+    },
+    {
+        "question": "What is the IEEE standard device number for distance relay?",
+        "choices": ["51", "52", "21", "87"],
+        "answer": "21"
+    },
+    {
+        "question": "What is the device number for differential protective relay?",
+        "choices": ["89", "87", "64", "81"],
+        "answer": "87"
+    },
+    {
+        "question": "Fuse on the motor is used to (I. Short circuit Protection II. Overload Protection)",
+        "choices": ["I only", "II only", "Both I & II", "Either I or II"],
+        "answer": "I only"
+    },
+    {
+        "question": "What characteristic of fuse does not need in choosing a fuse?",
+        "choices": ["Voltage rating", "Contact Resistance", "Interrupting capacity", "Breaking capacity"],
+        "answer": "Contact Resistance"
+    },
+    {
+        "question": "General lighting load for store shall be calculated as _______ VA per sqm.",
+        "choices": ["16", "8", "28", "24"],
+        "answer": "24"
+    },
+    {
+        "question": "Minimum thickness of concrete in a concrete encased electrode is",
+        "choices": ["50mm", "70mm", "60mm", "80mm"],
+        "answer": "50mm"
+    },
+    {
+        "question": "Which of the following Electrode is not permitted for grounding?",
+        "choices": ["Aluminum electrode", "Metal frame of the building structure", "Concrete encased electrode", "Metal underground water pipes"],
+        "answer": "Aluminum electrode"
+    },
+    {
+        "question": "A permanent joining of metal parts to form an electrically conductive path that ensures electrical continuity and the capacity to conduct safety any current likely to be imposed.",
+        "choices": ["Counterpoise", "Air Terminal", "Interlink", "Bonding"],
+        "answer": "Bonding"
+    },
+    {
+        "question": "Ground ring shall be buried at a depth below the earth's surface not less than _______ mm.",
+        "choices": ["500mm", "1000mm", "750mm", "600mm"],
+        "answer": "750mm"
+    },
+    {
+        "question": "The color used to indicate grounding conductor larger than 14 sqmm are ______, ______ and _______. (I. Yellow, II. White, III. Gray, IV. Any color with three white stripe except green.)",
+        "choices": ["I, II, III", "II, III, IV", "I, II, IV", "I, II, III, IV"],
+        "answer": "II, III, IV"
+    },
+    {
+        "question": "What is the minimum length and size of grounding electrode conductor.",
+        "choices": ["5000mm, 22sqmm", "5000mm, 30 sqmm", "6000mm, 22 sqmm", "6000mm, 30 sqmm"],
+        "answer": "6000mm, 22 sqmm"
+    },
+    {
+        "question": "Month of March is the fire prevention month, what is the Electrical Safety month?",
+        "choices": ["February", "May", "April", "June"],
+        "answer": "May"
+    },
+    {
+        "question": "In Epira Law, where does 1,000 volts - 34,500 volts belong?",
+        "choices": ["high voltage", "Extra high voltage", "low voltage", "Medium voltage"],
+        "answer": "Medium voltage"
+    },
+    {
+        "question": "In EPIRA Law, the term WESM means?",
+        "choices": ["Whole Sale Electricity Spot Market", "Whole Sale Energy Spot Market", "Waste Energy Spot Market", "World Electrical Mechanical System"],
+        "answer": "Whole Sale Electricity Spot Market"
+    },
+    {
+        "question": "Scope of RME is up to how much kVA at 600 volts?",
+        "choices": ["300", "100", "500", "250"],
+        "answer": "500"
+    },
+    {
+        "question": "Construction of service entrance cap must be _________.",
+        "choices": ["weatherproof", "Raintight", "watertight", "Rain proof"],
+        "answer": "Raintight"
+    },
+    {
+        "question": "All line wires shall be protected by an approved electrical conduit including ______ conductor.",
+        "choices": ["Grounding", "Bonding", "Bonded", "Grounded"],
+        "answer": "Grounding"
+    },
+    {
+        "question": "The ohmmeter reading for a shorted capacitor is",
+        "choices": ["Infinity", "Few mega ohms", "Few kilos ohm", "Zero"],
+        "answer": "Zero"
+    }
+
+],
 };
 
 
