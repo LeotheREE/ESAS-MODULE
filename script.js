@@ -2318,7 +2318,7 @@ const categories = {
         {
             "question": "Which of the following relays are used for phase fault on long lines?",
             "choices": ["Impedance relay", "Reactance relay", "MHO relay", "Overcurrent relay"],
-            "answer": "MHO relay"
+            "answer": "Impedance relay"
         },
         {
             "question": "In a load duration curve for an integrated power system, the uppermost crest represents the energy contributed by which one of the following?",
