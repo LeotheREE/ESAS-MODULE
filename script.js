@@ -2392,7 +2392,608 @@ const categories = {
         }
 
 ],
-	
+
+
+
+ "EE MODULE 4": [
+ 
+    {
+        "question": "It is the shunt admittance of the transmission line is ignored, the torque angle at which maximum power will occur is.",
+        "choices": ["π/4", "-π/2", "π/2", "π"],
+        "answer": "π/4"
+    },
+    {
+        "question": "If the torque angle continuously increases, system will become",
+        "choices": ["Stable", "Unstable", "Oscillatory stable", "Asymptotic stable"],
+        "answer": "Unstable"
+    },
+    {
+        "question": "If the transmission voltage is increased, the percentage resistance drop will",
+        "choices": ["Increase", "Decrease", "Remain unchanged", "None of the above"],
+        "answer": "Decrease"
+    },
+    {
+        "question": "The power transmission capacity of the transmission line is ___",
+        "choices": ["Proportional to the square of the voltage", "Inversely proportional to the voltage", "Directly proportional to the voltage", "Proportional to the cube of the voltage"],
+        "answer": "Proportional to the square of the voltage"
+    },
+    {
+        "question": "A transformer has a reactance of 0.04 pu. If the secondary of the transformer is short circuited with nominal voltage applied to the primary, the symmetrical short-circuit current will be ____",
+        "choices": ["4 times of the full load current", "25 times of the full load current", "16 times of the full load current", "29 times of the full load current"],
+        "answer": "25 times of the full load current"
+    },
+    {
+        "question": "Three phase short circuit current of an alternator will be",
+        "choices": ["Zero", "Maximum", "Infinity", "Very small"],
+        "answer": "Maximum"
+    },
+    {
+        "question": "The material used for fuse wire must have",
+        "choices": ["Low melting point and low specific resistance", "Low melting point and high specific resistance", "High melting point and low specific resistance", "Low melting point with any specific resistance"],
+        "answer": "Low melting point and high specific resistance"
+    },
+    {
+        "question": "The Buchholz relay is used to protect the ____",
+        "choices": ["Alternators against all internal faults", "Oil immersed transformers against all internal faults", "Synchronous motors against all types of faults", "Transmission line against all types of faults"],
+        "answer": "Oil immersed transformers against all internal faults"
+    },
+    {
+        "question": "Third harmonics current flows from the generator terminals through the system and returns by way of comparatively low zero-sequence reactance path to the neutral terminals will give rise to",
+        "choices": ["Overheating of generator", "Overheating of generator and neutral resistor of earthing transformer", "Overheating of earthing transformer only", "None of the above"],
+        "answer": "Overheating of generator and neutral resistor of earthing transformer"
+    },
+    {
+        "question": "The effect of electric shock in the human body will depend on",
+        "choices": ["Line voltage", "Line current", "Current flowing in the body", "None of the above"],
+        "answer": "Current flowing in the body"
+    },
+    {
+        "question": "To protect the power transformer (Y-Y , both neutral grounded) against fault, the CT will have",
+        "choices": ["∆-∆ connection", "∆-Y connection", "Y-∆ connection", "Y-Y connection"],
+        "answer": "∆-∆ connection"
+    },
+    {
+        "question": "The class C insulation can withstand",
+        "choices": ["180° C", "150° C", "200° C", "105° C"],
+        "answer": "180° C"
+    },
+    {
+        "question": "The location of the lightning arrester is",
+        "choices": ["Near the transformer", "Away from the transformer", "Near the circuit breaker", "Away from the circuit breaker"],
+        "answer": "Near the transformer"
+    },
+    {
+        "question": "Which of the following distribution systems gives the greater reliability?",
+        "choices": ["Radial system", "Ring system", "DC three wire system", "Open loop system"],
+        "answer": "Ring system"
+    },
+    {
+        "question": "In the transformer",
+        "choices": ["High tension winding is used near the core", "High tension winding is used away from the core", "Low tension winding is used away from the core", "Low tension winding is used near the core"],
+        "answer": "High tension winding is used near the core"
+    },
+    {
+        "question": "The effect of series capacitor on a transmission line is to improve the steady state stability",
+        "choices": ["Steady state stability", "Transient stability", "Both A and B", "None of the above"],
+        "answer": "Both A and B"
+    },
+    {
+        "question": "Two transmission lines of the surge impedance of 600 ohms each is linked by a cable. What should be the surge impedance of the cable if there were no reflection at the junction?",
+        "choices": ["300 ohms", "30 ohms", "600 ohms", "60 ohms"],
+        "answer": "600 ohms"
+    },
+    {
+        "question": "For 11kV underground system, it is possible to work upon a length of",
+        "choices": ["800 miles", "100 miles", "400 miles", "10 miles"],
+        "answer": "100 miles"
+    },
+    {
+        "question": "Series capacitor are used to",
+        "choices": ["Improve the line voltage", "Compensate for line inductive reactance", "Compensate for line capacitive reactance", "None of the above"],
+        "answer": "Compensate for line inductive reactance"
+    },
+    {
+        "question": "Which of the following relays are used for phase fault on long time?",
+        "choices": ["Impedance relays", "Reactance relays", "MHO relays", "Overcurrent relays"],
+        "answer": "Impedance relays"
+    },
+    {
+        "question": "For a detection of the occurrence of the severe synchronising power surges",
+        "choices": ["Impedance relays are best suited", "Reactance relays are best suited", "MHO relays are best suited", "Split-phase relays are best suited"],
+        "answer": "MHO relays are best suited"
+    },
+    {
+        "question": "If the height of the transmission tower is decreased, the capacitance of the line will ____",
+        "choices": ["Increase", "Decrease", "Remain same", "Decrease exponentially"],
+        "answer": "Increase"
+    },
+    {
+        "question": "AC system has the following disadvantages over DC system",
+        "choices": ["Skin effect exists", "Line regulation is more", "Charging current exists", "Proximity effect exists"],
+        "answer": "Charging current exists"
+    },
+    {
+        "question": "The voltage regulations an important factor for the design of",
+        "choices": ["Generator", "Motor", "Feeder", "Transmission line"],
+        "answer": "Feeder"
+    },
+    {
+        "question": "Which of the following breaker has a high reliability and minimum maintenance?",
+        "choices": ["Oil circuit breaker", "Airblast circuit breaker", "Vacuum circuit breaker", "Sf6 circuit breaker"],
+        "answer": "Sf6 circuit breaker"
+    },
+    {
+        "question": "Which of the following parameter can be neglected for a short line?",
+        "choices": ["Resistance", "Inductance", "Reactance", "Capacitance"],
+        "answer": "Capacitance"
+    },
+    {
+        "question": "Which of the following insulator will be selected for high voltage application?",
+        "choices": ["Strain type", "Disc type", "Suspension type", "Pin type"],
+        "answer": "Suspension type"
+    },
+    {
+        "question": "The strain type insulators used when",
+        "choices": [
+            "The transmission line is dead ended (a)",
+            "The direction of transmission line changes (b)",
+            "The transmission line is short",
+            "A or B"
+        ],
+        "answer": "A or B"
+    },
+    {
+        "question": "If the capacitance of the transmission line is increased, the transmitted power will",
+        "choices": ["Remain same", "Decrease", "Increase", "Tend to zero at the receiving end"],
+        "answer": "Increase"
+    },
+    {
+        "question": "The sag of a transmission line with 50m span in 1 m. What will be the sag if the height of the transmission line is increased by 20%",
+        "choices": ["1.2 m", "2 m", "1.25 m", "1 m"],
+        "answer": "1 m"
+    },
+    {
+        "question": "Which of the following method may be used to inject reactive power in the transmission line?",
+        "choices": ["Series capacitor", "Shunt capacitor", "Shunt reactor", "Voltage regulator"],
+        "answer": "Shunt capacitor"
+    },
+    {
+        "question": "The guard wire is firmly connected with",
+        "choices": ["Neutral wire", "Phase wire", "Cross arm", "Earth wire"],
+        "answer": "Earth wire"
+    },
+    {
+        "question": "The load must not be connected directly on",
+        "choices": ["Transmission line", "Distributor", "Service mains", "L.T. 220 volt line"],
+        "answer": "Transmission line"
+    },
+    {
+        "question": "Generally the porcelain insulators are glazed because",
+        "choices": [
+            "It helps in gliding down of water easily",
+            "It improves its appearance",
+            "It prevents the absorbing tendency of gases and water vapours",
+            "It increases its mechanical strength"
+        ],
+        "answer": "It helps in gliding down of water easily"
+    },
+    {
+        "question": "In case of pin type insulators, the petticoats are provided to",
+        "choices": [
+            "Improve its appearance",
+            "To drip out the rain water and to increase the possible conducting length of the path",
+            "To protect the stud from sun lighting",
+            "To protect the stud from wind pressure"
+        ],
+        "answer": "To drip out the rain water and to increase the possible conducting length of the path"
+    },
+    {
+        "question": "Up to which voltage, the pin insulators are preferred?",
+        "choices": ["25 kV", "11 kV", "500 kV", "66 kV"],
+        "answer": "25 kV"
+    },
+    {
+        "question": "Name the effect which resulted because of the size of conductor, frequency and the specific resistance of the conducting material.",
+        "choices": ["Corona effect", "Skin effect", "Proximity effect", "Thomson effect"],
+        "answer": "Skin effect"
+    },
+    {
+        "question": "If the specific resistance of the conductor is increased, what effect does it result on the skin effect?",
+        "choices": ["Remain same", "Decreasing", "Increasing", "None of the above"],
+        "answer": "Decreasing"
+    },
+    {
+        "question": "The capacitor bank installed",
+        "choices": [
+            "To improve the power factor and voltage magnitude",
+            "To decrease the power factor and voltage magnitude",
+            "To improve the power factor",
+            "To improve the voltage magnitude only"
+        ],
+        "answer": "To improve the power factor and voltage magnitude"
+    },
+    {
+        "question": "The disadvantages of transmission line as compared to cable system are",
+        "choices": [
+            "Atmospheric hazards",
+            "Atmospheric hazards, exposures to lightening",
+            "Interference of telecommution circuits",
+            "Atmospheric hazards like smoke, ice fumes, exposure to lightening, interference of telecommution circuits etc"
+        ],
+        "answer": "Atmospheric hazards like smoke, ice fumes, exposure to lightening, interference of telecommution circuits etc"
+    },
+    {
+        "question": "The safe working life of the underground cable is taken as",
+        "choices": ["2 years", "5 years", "40 years", "100 years"],
+        "answer": "40 years"
+    },
+    {
+        "question": "Pole mounting substations are also known as",
+        "choices": ["Outdoor type", "Indoor type", "Basement type", "Open type"],
+        "answer": "Outdoor type"
+    },
+    {
+        "question": "A circuit breaker serves the purpose of",
+        "choices": [
+            "Switching-on and switching-off under normal working conditions",
+            "Protecting the circuit under abnormal condition of load",
+            "Protecting the circuit under faulty conditions",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Base load plants are designed to supply power at",
+        "choices": [
+            "Low capital cost and low operating cost",
+            "High capital cost and low operating cost",
+            "Low capital cost and high operating cost",
+            "High capital cost and high operating cost"
+        ],
+        "answer": "High capital cost and low operating cost"
+    },
+    {
+        "question": "Peak load plants are designed to supply power at",
+        "choices": [
+            "Low capital cost and low operating cost",
+            "High capital cost and low operating cost",
+            "Low capital cost and high operating cost",
+            "High capital cost and high operating cost"
+        ],
+        "answer": "Low capital cost and high operating cost"
+    },
+    {
+        "question": "The overall efficiency of thermal power plants is low due to low efficiency of",
+        "choices": ["Steam turbine and condenser", "Boiler", "Alternator", "Economizer"],
+        "answer": "Steam turbine and condenser"
+    },
+    {
+        "question": "In practice, the cost of energy transmission is minimum for",
+        "choices": ["Natural gas power plants", "Diesel power plants", "Nuclear power plant", "Steam power plants"],
+        "answer": "Steam power plants"
+    },
+    {
+        "question": "The peak load demand of an industrial area is met by",
+        "choices": ["Nuclear power plant", "Storage batteries", "Diesel power plant", "Steam power plant"],
+        "answer": "Diesel power plant"
+    },
+    {
+        "question": "The main objective of tariff is to distribute equatibly the cost of",
+        "choices": [
+            "Installation and fuel (a)",
+            "Power transmission and distribution (b)",
+            "Both A and B",
+            "Supplying energy among various classifications of use"
+        ],
+        "answer": "Supplying energy among various classifications of use"
+    },
+    {
+        "question": "Factors involved in fixing tariff are",
+        "choices": [
+            "Secured return from each consumer",
+            "Simplicity, cheapness and easy explainability",
+            "Incentives to consumers and charge according to use",
+            "All of these"
+        ],
+        "answer": "All of these"
+    },
+    {
+        "question": "Disadvantage of low power factor are",
+        "choices": [
+            "High rating of generating, transmitting and distributing equipments",
+            "Large voltage drop and poor voltage regulation",
+            "Large copper loss and high capital cost",
+            "All of these"
+        ],
+        "answer": "All of these"
+    },
+    {
+        "question": "Demand factor for a domestic fan and refrigerator is approximately",
+        "choices": ["0.75 and 1.0", "0.6 and 0.75", "0.50 and 0.50", "0.33 and 0.73"],
+        "answer": "0.75 and 1.0"
+    },
+    {
+        "question": "The surge impedance of a transmission line differs from its characteristics impedance, as surge impedance consider line",
+        "choices": [
+            "Capacitance to be zero (a)",
+            "Resistance of finite value",
+            "Inductance to be zero (c)",
+            "Both A and C"
+        ],
+        "answer": "Resistance of finite value"
+    },
+    {
+        "question": "The power factor of receiving end of transmission line is",
+        "choices": [
+            "Equal to power factor of sending end",
+            "Not related to the power factor of sending end",
+            "Less than the power factor of sending",
+            "Greater than the power factor of sending end"
+        ],
+        "answer": "Less than the power factor of sending"
+    },
+    {
+        "question": "Booster transformers are used to increase the voltage at ____ of a transmission line",
+        "choices": ["Sending end", "Receiving end", "Intermediate points", "The centre"],
+        "answer": "Intermediate points"
+    },
+    {
+        "question": "The voltage regulation Re of a transmission line voltage |V| is",
+        "choices": ["Re a|V|²", "Re a|V|", "Re a 1/|V|²", "Re a 1/|V|"],
+        "answer": "Re a 1/|V|"
+    },
+    {
+        "question": "Long transmission line has a surge impedance of approximately",
+        "choices": ["31.4 ohms", "75 ohms", "282 ohms", "400 ohms"],
+        "answer": "400 ohms"
+    },
+    {
+        "question": "The transfer of real power between interconnected stations is affected by",
+        "choices": ["Reactance", "Capacitance", "Inductance", "All of these"],
+        "answer": "Capacitance"
+    },
+    {
+        "question": "Shunt conductance in power transmission lines is due to leakage over the",
+        "choices": ["Conductors", "Insulators", "Poles", "Jumpers"],
+        "answer": "Insulators"
+    },
+    {
+        "question": "Voltage gradient in a conductor is highest at its",
+        "choices": ["Centre", "Surface", "Circle with half the radius", "Axial line along its average radial circle"],
+        "answer": "Surface"
+    },
+    {
+        "question": "Voltage gradient in a cable is highest at the",
+        "choices": ["Center of the conductor", "Surface of the conductor", "Surface of the sheath", "All of these"],
+        "answer": "Surface of the conductor"
+    },
+    {
+        "question": "The real part of propagation constant of a transmission line is",
+        "choices": ["Phase constant", "Attenuation constant", "Stability constant", "Reliability factor"],
+        "answer": "Attenuation constant"
+    },
+    {
+        "question": "For a spam of length of 2t, horizontal tension at supports as T weight of the conductor per unit length is w, the maximum value of sag will be",
+        "choices": ["2wt/T", "2wt²/T", "wt/2T", "wt²/2T"],
+        "answer": "wt²/2T"
+    },
+    {
+        "question": "The sag of the transmission line is affected by",
+        "choices": ["Its own weight and weight of the ice", "Temperature and wind condition", "Both A and B", "Either A or B"],
+        "answer": "Both A and B"
+    },
+    {
+        "question": "Most commonly used supports for high tension lines is",
+        "choices": ["Wooden poles", "Steel poles", "Cross bars", "Latticed steel poles"],
+        "answer": "Latticed steel poles"
+    },
+    {
+        "question": "When horizontal tension H increased by 20%, the tension T changes by a",
+        "choices": ["Decreases of 20%", "Decrease of 10%", "No change", "Increase of 20%"],
+        "answer": "Increase of 20%"
+    },
+    {
+        "question": "The transmission line is a circuit with",
+        "choices": ["Distributed parameters of R, L and G", "Lumps of R and L", "Lumps of L and C", "Both B and C"],
+        "answer": "Distributed parameters of R, L and G"
+    },
+    {
+        "question": "Inductance of a conductor due to its internal flux is",
+        "choices": ["2π x 10^-7 H/m", "(2π x 10^-7)^-1 H/m", "(2π x 10^-7)/7 H/m", "0.5 x 10^-7 H/m"],
+        "answer": "0.5 x 10^-7 H/m"
+    },
+    {
+        "question": "Inductance between two conductors of diameter D1 and D2 is",
+        "choices": ["½ x 10^-7 x (D2/D1) H/m", "2 x 10^-7 ln (D2/D1) H/m", "10^-7 ln (D2/D1) H/m", "2π x 10^-7 ln (D2/D1) H/m"],
+        "answer": "2 x 10^-7 ln (D2/D1) H/m"
+    },
+    {
+        "question": "A conductor has seven identical strands of r = 1 cm each. The GMR of the conductor is",
+        "choices": ["7 cm", "3.5 cm", "2.177 cm", "0.177 cm"],
+        "answer": "2.177 cm"
+    },
+    {
+        "question": "An ACSR conductor has (n - 1) layers around its single centre strands, the total number of strands will be.",
+        "choices": ["3n² + 3n + 1", "3n² - 3n - 1", "3n² + 3n - 1", "3n² - 3n + 1"],
+        "answer": "3n² - 3n + 1"
+    },
+    {
+        "question": "An ACSR conductor has seven steel strands, it is surrounded by twenty four aluminum conductors, it is specified as",
+        "choices": ["31 ACSR", "31/7 ACSR", "7/31 ACSR", "24/7 ACSR"],
+        "answer": "24/7 ACSR"
+    },
+    {
+        "question": "The value of inductance per conductor in three phase line is ____ times the loop inductance for single phase lines",
+        "choices": ["⅓", "½", "1", "2"],
+        "answer": "½"
+    },
+    {
+        "question": "When the conductor of a three-phase circuit are not spaced equilaterally, the transposition is done to",
+        "choices": [
+            "Decrease the line inductance per phase",
+            "Minimize the effect of adjoining communication circuit",
+            "Balance the three phase of the circuit",
+            "Both A and B"
+        ],
+        "answer": "Balance the three phase of the circuit"
+    },
+    {
+        "question": "In EHV lines, the high voltage gradient at the conductors is reduced by",
+        "choices": [
+            "Transposing the lines",
+            "Increasing the height of the support towers",
+            "Two or more conductors per phase in close proximity and increasing the spacing between the phases",
+            "All of these"
+        ],
+        "answer": "Two or more conductors per phase in close proximity and increasing the spacing between the phases"
+    },
+    {
+        "question": "The transmission line inductance contributed by",
+        "choices": [
+            "The current in the conductor",
+            "The current in other conductor",
+            "Extra high voltage in between the conductors",
+            "All of these"
+        ],
+        "answer": "The current in other conductor"
+    },
+    {
+        "question": "Regulating transformers are used in power system to control",
+        "choices": ["Power factor", "Load flow", "Voltage", "None of these"],
+        "answer": "Load flow"
+    },
+    {
+        "question": "The ratio of capacitance of line to neutral and line to line capacitance of a transmission line having two conductors is",
+        "choices": ["¼", "½", "1.0", "2.0"],
+        "answer": "2.0"
+    },
+    {
+        "question": "Charging current due to capacitance C when a single phase line is transmitting power at a voltage v and frequency ω is",
+        "choices": ["-v/jωc", "jωv/c", "v/c", "jωcv"],
+        "answer": "jωcv"
+    },
+    {
+        "question": "The rise of temperature in transmission line",
+        "choices": [
+            "Increase the stress and strength",
+            "Decrease the stress and increase the length",
+            "Decrease the stress and strength",
+            "Increase the stress and decrease the length"
+        ],
+        "answer": "Decrease the stress and increase the length"
+    },
+    {
+        "question": "The presence of earth alters the",
+        "choices": [
+            "Electric field of the line",
+            "Capacitance of the line",
+            "Both A and B",
+            "Inductance of the line"
+        ],
+        "answer": "Both A and B"
+    },
+    {
+        "question": "The skin effect in conductors is due to non-uniform distribution of current in it and major portion of the current is near the ____ of the conductor",
+        "choices": ["Surface", "Centre", "Axis", "Radial lines"],
+        "answer": "Surface"
+    },
+    {
+        "question": "The effective resistance of conductor is increased by",
+        "choices": ["Skin effect", "Proximity effect", "Corona effect", "Both A and B"],
+        "answer": "Both A and B"
+    },
+    {
+        "question": "In both skin effect and proximity effect",
+        "choices": [
+            "The effective internal reactance of the conductor gets decreased",
+            "Their effect depends upon conductor size d, frequency f, resistivity p, and permeability μp",
+            "The effects is negligible at power frequency and small conductors, but the effect is large for higher frequency and big conductors",
+            "All of these"
+        ],
+        "answer": "All of these"
+    },
+    {
+        "question": "A two terminal pair of network of a transmission line can be represented by a",
+        "choices": ["π - network", "T - network", "Either A or B", "Tree network"],
+        "answer": "Either A or B"
+    },
+    {
+        "question": "For a short transmission line",
+        "choices": ["VR = Vs - IsZ", "A = D = 1", "C = 0 and B = Z", "All of these"],
+        "answer": "All of these"
+    },
+    {
+        "question": "A medium transmission line has length over 80 km and upto 250 km has negligible",
+        "choices": ["Resistance", "Inductance", "Conductance", "Capacitance"],
+        "answer": "Conductance"
+    },
+    {
+        "question": "The characteristics impedance of a loss-less overhead line has a value of",
+        "choices": ["400 to 600 ohms", "40 to 60 ohms", "100 to 200 ohms", "30 to 300 ohms"],
+        "answer": "400 to 600 ohms"
+    },
+    {
+        "question": "The characteristics impedance of loss-less cable is",
+        "choices": ["400 to 600 ohms", "40 to 60 ohms", "100 to 200 ohms", "30 to 300 ohms"],
+        "answer": "40 to 60 ohms"
+    },
+    {
+        "question": "Ferranti effect states that the receiving end voltage on no load is",
+        "choices": ["Equal to that at the sending end", "Less than that at the sending end", "More than that at the sending end", "Either B or C"],
+        "answer": "More than that at the sending end"
+    },
+    {
+        "question": "Advantages of constant voltage transmission are:",
+        "choices": ["Improve power factor at heavy loads", "Same voltage is maintained at all loads", "Increased power transmission over long distance", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Commonly used equivalent network of a transmission line is",
+        "choices": ["π", "T", "Ladder network", "Either A or B"],
+        "answer": "π"
+    },
+    {
+        "question": "In terms of ABCD constants, the characteristics impedance of overhead transmission is",
+        "choices": ["(A/D)^1/2", "(B/C)^1/2", "(AB/CD)^1/2", "(C/D)^1/2"],
+        "answer": "(AB/CD)^1/2"
+    },
+    {
+        "question": "The units of B and C are respectively",
+        "choices": ["Mho , mho", "Ohm, mho", "Mho, ohm", "Ohm, ohm"],
+        "answer": "Ohm, mho"
+    },
+    {
+        "question": "To increase transmitted power over line",
+        "choices": ["Increase its capacitance", "Increase its line voltage", "Decrease its line inductance", "Any of these"],
+        "answer": "Any of these"
+    },
+    {
+        "question": "A transmission line has value of its A constant as",
+        "choices": ["Zero", "Nearly zero", "Unity", "Nearly equal unity"],
+        "answer": "Nearly equal unity"
+    },
+    {
+        "question": "Corona always causes",
+        "choices": ["Insulation failure", "System faults", "Radio interference", "All of these"],
+        "answer": "Radio interference"
+    },
+    {
+        "question": "Corona loss is more in",
+        "choices": ["Unstranded conductor", "ACSR", "Stranded conductor", "Transposed conductor"],
+        "answer": "Unstranded conductor"
+    },
+    {
+        "question": "Load that depends on the supply frequency is of",
+        "choices": ["Fan type", "Heating and welding type", "Synchronous condenser", "Centrifugal pumps"],
+        "answer": "Centrifugal pumps"
+    },
+    {
+        "question": "The inertia constants of two machines are respectively 30 and 42 MJ per MVA. When the change in frequency due to change in load in first machine is 12 Hz, the change in the second machine frequency will be",
+        "choices": ["10 Hz", "12 Hz", "15 Hz", "42 Hz"],
+        "answer": "10 Hz"
+    },
+
+],
 };
 
 
