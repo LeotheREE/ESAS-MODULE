@@ -3661,7 +3661,7 @@ const categories = {
     {
         "question": "Facebook, Twitter, Instagram and the like has a web level of_",
         "choices": ["4", "3", "2", "1"],
-        "answer": "3"
+        "answer": "2"
     },
     {
         "question": "Which of the following is an instruction that causes data to be brought from the memory into an accumulator register?",
@@ -3801,7 +3801,7 @@ const categories = {
     {
         "question": "Fluorescent luminaires CANNOT be directly mounted to due to possibility of fluorescent luminaires of causing fire.",
         "choices": ["Concrete ceiling", "Plasters", "Plywood ceiling", "Wooden framing members"],
-        "answer": "Plywood ceiling"
+        "answer": "Wooden framing members"
     },
     {
         "question": "How many times the diameter of the largest raceways shall the length of the box be in straight pulls?",
