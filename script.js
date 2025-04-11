@@ -3435,6 +3435,412 @@ const categories = {
 
 
 ],
+
+    "ESAS PRE BOARDS": [
+
+    {
+        "question": "The vector which represents the sum of a group of force vector is called the ____",
+        "choices": ["Magnitude", "Resultant", "Sum", "Force triangle"],
+        "answer": "Resultant"
+    },
+    {
+        "question": "Which of the following support or connection has two unknowns?",
+        "choices": ["roller support", "short linkage", "hinge support", "strut"],
+        "answer": "hinge support"
+    },
+    {
+        "question": "Definition of Strain",
+        "choices": ["force per unit area", "force per unit length", "force per unit volume", "deformation per unit length"],
+        "answer": "deformation per unit length"
+    },
+    {
+        "question": "What is another term for modulus of rigidity?",
+        "choices": ["Modulus of elasticity", "Young's modulus", "Bulk modulus", "Shear modulus"],
+        "answer": "Shear modulus"
+    },
+    {
+        "question": "Structural steel element subjected to torsion will develop",
+        "choices": ["Tensile stress", "Shearing stress", "Compressive stress", "Bending stress"],
+        "answer": "Shearing stress"
+    },
+    {
+        "question": "A thin homogenous metallic plate containing a hole is heated sufficiently to cause expansion. If the coefficient of surface expansion is linear, the area of the hole will?",
+        "choices": [
+            "Increase at twice the rate as the area of the metal increases",
+            "Increased at the same rate as the area of the metal",
+            "Stay the same",
+            "Decrease the same rate as the area of the metal decreases"
+        ],
+        "answer": "Increased at the same rate as the area of the metal"
+    },
+    {
+        "question": "The deflection of a beam is ____",
+        "choices": [
+            "directly proportional to the modulus of elasticity and moment of inertia",
+            "inversely proportional to the modulus of elasticity and length of the beam cubed",
+            "inversely proportional to the modulus of elasticity and moment of inertia",
+            "directly proportional to the load imposed and inversely to the length squared"
+        ],
+        "answer": "inversely proportional to the modulus of elasticity and moment of inertia"
+    },
+    {
+        "question": "A leak from a faucet comes out in separate drops. Which of the following is the main cause of this phenomenon?",
+        "choices": ["gravity", "air resistance", "viscosity of the liquid", "surface tension"],
+        "answer": "surface tension"
+    },
+    {
+        "question": "Which of the following is NOT the basic component of motion of a fluid element?",
+        "choices": ["translation", "rotation", "twist", "volume distortion"],
+        "answer": "twist"
+    },
+    {
+        "question": "When a fluid flows through a pipe of cross-sectional area \"A\" and a velocity \"V\", the flow or discharge is ____",
+        "choices": ["AV²", "AV", "A²V", "A2/4V"],
+        "answer": "AV"
+    },
+    {
+        "question": "What is the classification of a turbine if the water moves along the vanes towards the axis of rotation of the runner?",
+        "choices": ["Axial flow", "Radial flow", "Parallel flow", "Mixed flow"],
+        "answer": "Radial flow"
+    },
+    {
+        "question": "Which of the following is TRUE for a propeller-type impeller centrifugal pump?",
+        "choices": [
+            "The head developed is due to the push of the vanes and flow is almost entirely axial",
+            "The head developed cannot be determined by the rotation of the vanes",
+            "The head developed is due to the rotation of the impeller",
+            "The head developed is due to the action of centrifugal force"
+        ],
+        "answer": "The head developed is due to the push of the vanes and flow is almost entirely axial"
+    },
+    {
+        "question": "Which of the following provides the basis for measuring thermodynamic property of temperature?",
+        "choices": [
+            "Zeroth law of thermodynamics",
+            "First law of thermodynamics",
+            "Second law of thermodynamics",
+            "Third law of thermodynamics"
+        ],
+        "answer": "Zeroth law of thermodynamics"
+    },
+    {
+        "question": "Modern steam plants work on which of the following cycles?",
+        "choices": ["Carnot cycle", "Rankine cycle", "Otto cycle", "Bell- Coleman cycle"],
+        "answer": "Rankine cycle"
+    },
+    {
+        "question": "The following is the correct order of energy conversion in thermal power plants:",
+        "choices": [
+            "Chemical energy - Mechanical energy - Electrical energy",
+            "Mechanical energy -Chemical energy -Electrical energy",
+            "Wind energy - Mechanical energy - Electrical energy",
+            "Heat energy - Electrical energy - Mechanical energy"
+        ],
+        "answer": "Chemical energy - Mechanical energy - Electrical energy"
+    },
+    {
+        "question": "An adiabatic process is characterized by which of the following?",
+        "choices": ["it is reversible", "The heat transfer is zero", "it is isothermal", "The entropy change is zero"],
+        "answer": "The heat transfer is zero"
+    },
+    {
+        "question": "Which of the following is NOT an advantage of a superheated, closed Rankine cycle over an open Rankine cycle?",
+        "choices": [
+            "lower equipment costs",
+            "increased efficiency",
+            "increased turbine life",
+            "increase boiler life"
+        ],
+        "answer": "increase boiler life"
+    },
+    {
+        "question": "Which cycle is generally used for gas turbine?",
+        "choices": ["Otto cycle", "Dual cycle", "Rankine cycle", "Brayton cycle"],
+        "answer": "Brayton cycle"
+    },
+    {
+        "question": "Which of the following statements about work for quasi-equilibrium process is incorrect?",
+        "choices": [
+            "The differential work is inexact",
+            "Work is area under P-T",
+            "Work is a path function",
+            "Work is always zero for constant-volume"
+        ],
+        "answer": "Work is area under P-T"
+    },
+    {
+        "question": "What is the empirical formula for nitric acid?",
+        "choices": ["HNO2", "HNO3", "NH2OH", "NH4OH"],
+        "answer": "HNO3"
+    },
+    {
+        "question": "What is the oxidation state of Aluminum?",
+        "choices": ["+2", "+3", "-4", "-2"],
+        "answer": "+3"
+    },
+    {
+        "question": "What must be the condition for Ideal gas law?",
+        "choices": [
+            "low temperature, low pressure",
+            "low temperature, high pressure",
+            "high temperature, low pressure",
+            "high temperature, high pressure"
+        ],
+        "answer": "high temperature, low pressure"
+    },
+    {
+        "question": "Heating value of coal largely depends on ____",
+        "choices": ["moisture content", "volatile matter", "size of coal particles", "ash content"],
+        "answer": "ash content"
+    },
+    {
+        "question": "Which of the following is a non-renewable source of energy?",
+        "choices": ["solar", "wind", "fossil fuel", "hydro"],
+        "answer": "fossil fuel"
+    },
+    {
+        "question": "The word \"atom\" came from the Greek word \"Atomos\" meaning?",
+        "choices": ["Divisible", "Indivisible", "Microscopic", "Invincible"],
+        "answer": "Indivisible"
+    },
+    {
+        "question": "What is the heaviest subatomic particle?",
+        "choices": ["electron", "proton", "atom", "neutron"],
+        "answer": "neutron"
+    },
+    {
+        "question": "What refers to ions that are NOT involved in the overall reactions?",
+        "choices": ["Guest ions", "Spectator ions", "Extra ions", "Special ions"],
+        "answer": "Spectator ions"
+    },
+    {
+        "question": "The purpose of Manganese Sulfide in steel alloying is to increase",
+        "choices": ["brittleness", "atmospheric corrosion resistance", "machinability", "dynamic & high temperature strength"],
+        "answer": "machinability"
+    },
+    {
+        "question": "What prefix in steel identification means it is made in an electric furnace?",
+        "choices": ["X", "B", "H", "E"],
+        "answer": "E"
+    },
+    {
+        "question": "Which of the following treatments will result in an increase in the fatigue strength of the steel?",
+        "choices": ["Shot peening", "Surface roughening", "Cold working", "Annealing"],
+        "answer": "Shot peening"
+    },
+    {
+        "question": "What is the property of material that reflects light that strikes to its surface, making it to look shiny?",
+        "choices": ["ductility", "malleability", "luster", "plasticity"],
+        "answer": "luster"
+    },
+    {
+        "question": "Which of the following describes the meaning of spectroscopy?",
+        "choices": [
+            "Study of the interaction between matter and electromagnetic radiation",
+            "Study of the quantitative measurement of the refiection or transmission properties",
+            "Is a set of techniques for measuring electromagnetic radiation, including visible light.",
+            "None of these"
+        ],
+        "answer": "Study of the interaction between matter and electromagnetic radiation"
+    },
+    {
+        "question": "What are the imperfections on electron microscope or refractive lenses?",
+        "choices": ["Deformation", "Alteration", "Aberration", "Atomization"],
+        "answer": "Aberration"
+    },
+    {
+        "question": "Two's complement can be obtained from One's complement by?",
+        "choices": ["adding 1", "subtracting 1", "putting 1 as leading beat", "they are equal"],
+        "answer": "adding 1"
+    },
+    {
+        "question": "Which of the following bus has a function of directing memory and I/O devices?",
+        "choices": ["Device bus", "Data bus", "Control bus", "Address bus"],
+        "answer": "Address bus"
+    },
+    {
+        "question": "Facebook, Twitter, Instagram and the like has a web level of_",
+        "choices": ["4", "3", "2", "1"],
+        "answer": "3"
+    },
+    {
+        "question": "Which of the following is an instruction that causes data to be brought from the memory into an accumulator register?",
+        "choices": ["Load", "Loop", "Fetch", "Jump"],
+        "answer": "Load"
+    },
+    {
+        "question": "A software program designed to enter a computer system, usually a network, through security \"holes\" and then replicate itself.",
+        "choices": ["Computer virus", "Worm", "Trojan Horse", "HTTP"],
+        "answer": "Worm"
+    },
+    {
+        "question": "The process of outsmarting the search engine is",
+        "choices": ["Google fooling", "Rank enhancement", "Search Engine Optimization", "Search Engine Hacking"],
+        "answer": "Search Engine Optimization"
+    },
+    {
+        "question": "Which of the following computer language is used for Artificial Intelligence?",
+        "choices": ["FORTRAN", "C++", "PROLOG", "COBOL"],
+        "answer": "PROLOG"
+    },
+    {
+        "question": "In MATLAB which is NOT aspect of a for/while loop?",
+        "choices": ["update", "initialization", "runner", "condition"],
+        "answer": "runner"
+    },
+    {
+        "question": "Which of the following is used to see if two elements are equal in MATLAB?",
+        "choices": ["!=", "==", "=", "isequal"],
+        "answer": "=="
+    },
+    {
+        "question": "The simplex method is extremely efficient in solving which of following classic problems?",
+        "choices": ["the \"transportation problem\"", "the \"assignment problem\"", "the \"transshipment problem\"", "the \"allocation problem\""],
+        "answer": "the \"allocation problem\""
+    },
+    {
+        "question": "Which is NOT a full-duplex communication?",
+        "choices": ["Local Area Network", "Radar", "Telemetry", "Telephone"],
+        "answer": "Radar"
+    },
+    {
+        "question": "What frequency range does cellular phone belongs?",
+        "choices": ["SHF", "UHF", "VHF", "EHF"],
+        "answer": "UHF"
+    },
+    {
+        "question": "What is work in process in accountancy?",
+        "choices": ["Assets", "Liabilities", "Expenses", "Revenue"],
+        "answer": "Assets"
+    },
+    {
+        "question": "Which of the following does \"NOT\" affect the owner's equity?",
+        "choices": ["Invested capital", "Expenses to get license to start operation", "Dividend paid", "License to start the business"],
+        "answer": "License to start the business"
+    },
+    {
+        "question": "This provides detailed information about specific hazardous material and contains some of the following such name of substance, physical hazards, health hazards, safe handling procedures, control measures, emergency first aid procedures, etc. What is this called?",
+        "choices": ["Management Safety Duty Sheet", "Material Signages Data Sheet", "Management Safety Data Sheet", "Material Safety Data Sheet"],
+        "answer": "Material Safety Data Sheet"
+    },
+    {
+        "question": "If you are appointed as a division manager, which of the following task is MOST likely you will do?",
+        "choices": ["determine the resources needed", "develop strategies and tactics", "set a standard", "set goals"],
+        "answer": "set goals"
+    },
+    {
+        "question": "How is material usage variance defined?",
+        "choices": [
+            "(quantity purchased)(actual price)-(quantity purchased) (standard price)",
+            "(quantity issued - standard quantity)(standard price)",
+            "(actual price - standard price)(quantity used)",
+            "(quantity purchased-quantity used)(actual price)"
+        ],
+        "answer": "(quantity issued - standard quantity)(standard price)"
+    },
+    {
+        "question": "It is a critical function in any service industry. It involves planning, coordinating, and controlling the resources and processes required to meet customer demand.",
+        "choices": [
+            "Supervisor Operation Management",
+            "Service Operation Management",
+            "Company Operation Management",
+            "Technical Operation Management"
+        ],
+        "answer": "Service Operation Management"
+    },
+    {
+        "question": "As an entrepreneur, you should always equip yourself with the current trend and always be aware of what's happening around you.",
+        "choices": ["Risk taking", "Information seeking", "Goal setting", "Systematic planning and monitoring"],
+        "answer": "Information seeking"
+    },
+    {
+        "question": "In Registered Electrical Engineer (REE) Licensure Exam, the weight of \"Mathematics\" is?",
+        "choices": ["45%", "20%", "25%", "30%"],
+        "answer": "25%"
+    },
+    {
+        "question": "What is \"commission\" in Implementing Rules and Regulations (IRR) of R.A. 7920, Article I, Rule 2(b)?",
+        "choices": [
+            "Professional Regulation Commission (PRC)",
+            "Board of Electrical Engineer",
+            "Charmain of PRC",
+            "Commission of Higher Education"
+        ],
+        "answer": "Professional Regulation Commission (PRC)"
+    },
+    {
+        "question": "What is the meaning of PRBEE?",
+        "choices": [
+            "Professional Regulation Board of Electrical Engineering",
+            "Professional Regulating Board of Electrical Engineers",
+            "Professional Regulatory Board of Electrical Engineering",
+            "Profession Regulation Board of Electrical Engineers"
+        ],
+        "answer": "Professional Regulatory Board of Electrical Engineering"
+    },
+    {
+        "question": "What is the approved date of PEC Part 1, 2017 edition?",
+        "choices": ["November 31,2017", "December 2,2017", "January 1, 2018", "January 2,2018"],
+        "answer": "December 2,2017"
+    },
+    {
+        "question": "What is the minimum ampacity of feeders for motor and other load connected?",
+        "choices": [
+            "250% of full load current plus other load",
+            "125% of full load current plus other load",
+            "125% of full load current",
+            "250% of full load current"
+        ],
+        "answer": "125% of full load current plus other load"
+    },
+    {
+        "question": "In house wiring, ground conductors must NOT be",
+        "choices": ["Insulated", "Identified", "placed in a circuit", "fused"],
+        "answer": "fused"
+    },
+    {
+        "question": "Fluorescent luminaires CANNOT be directly mounted to due to possibility of fluorescent luminaires of causing fire.",
+        "choices": ["Concrete ceiling", "Plasters", "Plywood ceiling", "Wooden framing members"],
+        "answer": "Plywood ceiling"
+    },
+    {
+        "question": "How many times the diameter of the largest raceways shall the length of the box be in straight pulls?",
+        "choices": ["6", "5", "8", "10"],
+        "answer": "8"
+    },
+    {
+        "question": "Which of the following best defined the phrase \"likely to become energized\"?",
+        "choices": [
+            "Failure of insulation",
+            "High-voltage equipment",
+            "Near energized electrical equipment",
+            "Equipment that is exposed to lightning"
+        ],
+        "answer": "Failure of insulation"
+    },
+    {
+        "question": "What is also referred to as the \"Energy Efficiency Conservation Act\"?",
+        "choices": ["R.A.9136", "R.A.11285", "R.A.11361", "R.A.9513"],
+        "answer": "R.A.11285"
+    },
+    {
+        "question": "The electric power industry was divided into four sectors by R.A. 9136 namely: generation, transmission, distribution, and_",
+        "choices": ["Electricity end-users", "Commercial consumers", "supply", "residential consumers"],
+        "answer": "supply"
+    },
+    {
+        "question": "It refers to the process of increasing the electrical properties and/or characteristic of the power line and its associated facilities to accommodate the present and future requirements of the system or of the grid.",
+        "choices": ["Upgrading", "Uprating", "Updating", "Renovating"],
+        "answer": "Uprating"
+    },
+    {
+        "question": "The Power Line Corridor (PLC) shall be determined by _ in accordance with the PEC, and to be approved by",
+        "choices": ["BEE, DOE", "ERC committee, PEE", "PEE, ERC committee", "DOE, BEE"],
+        "answer": "BEE, DOE"
+    }
+
+],
+	
 };
 
 
