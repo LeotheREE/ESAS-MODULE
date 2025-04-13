@@ -3846,12 +3846,12 @@ const categories = {
     "MATH PREBOARDS": [
 
     {
-        "question": "Identify the curve | z-3i|+|z+3i|=4",
+        "question": "Identify the curve | z-3i|-|z+3i|=4",
         "choices": ["Ellipse", "Circle", "Line", "Hyperbola"],
         "answer": "Hyperbola"
     },
     {
-        "question": "Identify the curve | z-3i|-|z+3i|=4",
+        "question": "Identify the curve | z-3i|+|z+3i|=6",
         "choices": ["Ellipse", "Circle", "Line", "Hyperbola"],
         "answer": "Ellipse"
     },
