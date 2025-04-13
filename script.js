@@ -1813,7 +1813,7 @@ const categories = {
     {
         "question": "A simple beam 'L' meters long carries a concentrated load of 'P' Newtons at the midspan. What is the maximum bending moment of the beam?",
         "choices": ["PL/4", "PL2/4", "PL/2", "PL2/6"],
-        "answer": "PL/2"
+        "answer": "PL/4"
     },
     {
         "question": "Which of the following are NOT units of pressure?",
