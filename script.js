@@ -3840,7 +3840,139 @@ const categories = {
     }
 
 ],
-	
+
+
+
+    "MATH PREBOARDS": [
+
+    {
+        "question": "Identify the curve | z-3i|+|z+3i|=4",
+        "choices": ["Ellipse", "Circle", "Line", "Hyperbola"],
+        "answer": "Hyperbola"
+    },
+    {
+        "question": "Identify the curve | z-3i|-|z+3i|=4",
+        "choices": ["Ellipse", "Circle", "Line", "Hyperbola"],
+        "answer": "Ellipse"
+    },
+    {
+        "question": "A chord of a circle of a diameter 10 ft is decreasing in length 1 ft/min. Find the rate of change of the smaller arc subtended by the chord when the chord is 8 ft. long.",
+        "choices": ["3/5 ft/min", "5/3 ft/min", "3 ftmin", "5 ft/min"],
+        "answer": "5/3 ft/min"
+    },
+    {
+        "question": "Find a general solution to the differential equation y\" -2y'+y=xe^x + 4, y(0)=1, y'(0)=1",
+        "choices": [
+            "y = e^x + xe^x - 1/2e^x ln(1+x²) + e^x arctanx",
+            "y = -3e^x + 4xe^x + (1/6)x^3e^x + 4",
+            "y = -3e^x + 4xe^x - 2/3 xe^-x - 2/9e^-x",
+            "y = e^x cosx + e^x sinx + (1/e) cosx ln|cosx| + x e^(2x) sinx"
+        ],
+        "answer": "y = -3e^x + 4xe^x + (1/6)x^3e^x + 4"
+    },
+    {
+        "question": "A normal to a given plane is",
+        "choices": ["Oblique to the plane", "Parallel to the plane", "Perpendicular to the plane", "Lying in the plane"],
+        "answer": "Perpendicular to the plane"
+    },
+    {
+        "question": "A tangent to a conic is a line",
+        "choices": [
+            "Which is parallel to the normal",
+            "Which touches the conic at only the point",
+            "Which passes inside the conic",
+            "All of the above"
+        ],
+        "answer": "Which touches the conic at only the point"
+    },
+    {
+        "question": "Which of the formulas below is incorrect?",
+        "choices": ["cos2θ = 2cos²θ -1", "c² = a² + b² - 2ab cosγ", "sin2θ = 1 - 2sin2θ", "sec²θ = tan²θ + 1"],
+        "answer": "sin2θ = 1 - 2sin2θ"
+    },
+    {
+        "question": "What is the curve described by the equation Im(z²) = 4?",
+        "choices": ["Ellipse", "Hyperbola", "Circle", "Parabola"],
+        "answer": "Hyperbola"
+    },
+    {
+        "question": "Find the area in a single hump of a cycloid given by the parametric equation: x = a(θ - sinθ), y = a(1 - cosθ)",
+        "choices": ["3πa²", "πa²/8", "πa²", "3πa²/8"],
+        "answer": "3πa²"
+    },
+    {
+        "question": "Given (sin A = -4/5, A in Quadrant III; cot B = 4.5, B in Quadrant II), evaluate sin(A + B).",
+        "choices": [
+            "5/19√17",
+            "19/5√17",
+            "√17",
+            "-1/√17"
+        ],
+        "answer": "19/5√17"
+    },
+    {
+        "question": "If z = 6e^(iπ/3), evaluate e^(iz).",
+        "choices": ["e^3√3", "e^-3√3", "e^√3", "e^-√3"],
+        "answer": "e^-3√3"
+    },
+    {
+        "question": "In an ellipse, a chord which contains a focus and is in a line perpendicular to the major axis is a",
+        "choices": ["Conjugate axis", "Latus rectum", "Focal width", "Minor axis"],
+        "answer": "Latus rectum"
+    },
+    {
+        "question": "Solve the differential equation: y\" - 4y' + 3y = sin x.",
+        "choices": [
+            "y(x) = C1 e^3x + C2 e^x + 1/5 cos x + 1/10 sin x",
+            "y(x) = C1 e^3x + C2 e^x sin x",
+            "y(x) = C1 sin 3x + C2 x + cos 3x",
+            "y(x) = C1 sin x + C2 x + 1/10 sin x"
+        ],
+        "answer": "y(x) = C1 e^3x + C2 e^x + 1/5 cos x + 1/10 sin x"
+    },
+    {
+        "question": "_____ circles are circles that have the same size.",
+        "choices": ["Eccentric", "Congruent", "Concyclic", "Concentric"],
+        "answer": "Congruent"
+    },
+    {
+        "question": "The locus of a point which moves so that its distance from a fixed point and a fixed line is always equal is",
+        "choices": ["Ellipse", "Parabola", "Circle", "Hyperbola"],
+        "answer": "Parabola"
+    },
+    {
+        "question": "When the discriminant of a conic section, D = B² - 4AC = 1, the curve is a",
+        "choices": ["Ellipse", "Circle", "Parabola", "Hyperbola"],
+        "answer": "Hyperbola"
+    },
+    {
+        "question": "The arc length is equal to the radius of a circle is called",
+        "choices": ["1 grad", "1 radian", "Quarter arc", "None of these"],
+        "answer": "1 radian"
+    },
+    {
+        "question": "A point where the concavity of a curve changes or when the slope of the curve is neither increasing nor decreasing is known as",
+        "choices": ["Point of tangency", "Inflection point", "Slope point", "Maximum point"],
+        "answer": "Inflection point"
+    },
+    {
+        "question": "Find the orthogonal trajectories of the family of parabolas y² = 2x + C.",
+        "choices": ["y = Ce^6", "y = Ce^(2x)", "y = Ce^(-x)", "y = Ce^(-2x)"],
+        "answer": "y = Ce^(-x)"
+    },
+    {
+        "question": "What is the curve described by the equation Im(z^2) = 4?",
+        "choices": ["Ellipse", "Parabola", "Hyperbola", "Circle"],
+        "answer": "Hyperbola"
+    },
+    {
+        "question": "What is the shape of the graph of r = a + bcosθ?",
+        "choices": ["Lemniscate", "Rose", "Limacon", "Cardioid"],
+        "answer": "Limacon"
+    }
+
+	    
+ ],
 };
 
 
